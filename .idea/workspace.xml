@@ -4,16 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="4858668b-7b0b-4b75-93e4-fe6b412189c5" name="Changes" comment="Tela MainView">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/HelloApplication.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="4858668b-7b0b-4b75-93e4-fe6b412189c5" name="Changes" comment="" />
+>>>>>>> origin/master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -45,6 +50,9 @@
     </option>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="ProjectId" id="1xNPsQ9VmJgxmeeScK4x9bFOi0o" />
+>>>>>>> origin/master
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,7 +60,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+=======
+>>>>>>> origin/master
   </component>
   <component name="RunManager">
     <configuration name="HelloApplication" type="Application" factoryName="Application">
@@ -63,6 +74,10 @@
       </method>
     </configuration>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+>>>>>>> origin/master
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4858668b-7b0b-4b75-93e4-fe6b412189c5" name="Changes" comment="" />
@@ -71,6 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630192781588</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00001" summary="Criando os arquivos do Projeto">
       <created>1630192992739</created>
       <option name="number" value="00001" />
@@ -131,4 +147,8 @@
     <MESSAGE value="Tela MainView" />
     <option name="LAST_COMMIT_MESSAGE" value="Tela MainView" />
   </component>
+=======
+    <servers />
+  </component>
+>>>>>>> origin/master
 </project>
