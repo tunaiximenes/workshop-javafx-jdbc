@@ -4,118 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="4858668b-7b0b-4b75-93e4-fe6b412189c5" name="Changes" comment="Tela MainView">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/HelloApplication.java" afterDir="false" />
+    <list default="true" id="de223dfb-0a14-46df-b605-37035cd1a513" name="Changes" comment="Tela MainView">
+      <change afterPath="$PROJECT_DIR$/src/application/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/MainView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workshopjavafxjdbc/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/workshopjavafxjdbc/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/workshopjavafxjdbc/HelloApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/workshopjavafxjdbc/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/workshopjavafxjdbc/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshop-javafx-jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/workshop-javafx-jdbc.iml" afterDir="false" />
     </list>
-=======
-    <list default="true" id="4858668b-7b0b-4b75-93e4-fe6b412189c5" name="Changes" comment="" />
->>>>>>> origin/master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="4d2d1b766854c8181dc4eb999b9076cfabb86eb2" />
-      </map>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
-  </component>
-  <component name="GitToolBoxStore">
-    <option name="recentBranches">
-      <RecentBranches>
-        <option name="branchesForRepo">
-          <list>
-            <RecentBranchesForRepo>
-              <option name="branches">
-                <list>
-                  <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1630194064" />
-                  </RecentBranch>
-                </list>
-              </option>
-              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
-            </RecentBranchesForRepo>
-          </list>
-        </option>
-      </RecentBranches>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
     </option>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-=======
-  <component name="ProjectId" id="1xNPsQ9VmJgxmeeScK4x9bFOi0o" />
->>>>>>> origin/master
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-<<<<<<< HEAD
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-=======
->>>>>>> origin/master
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/gui" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tunai\OneDrive\Java\Exercicios\Nelio Alves\workshop-javafx-jdbc\src\gui" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="HelloApplication" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.example.workshopjavafxjdbc.HelloApplication" />
+      <option name="MAIN_CLASS_NAME" value="application.Main" />
       <module name="workshop-javafx-jdbc" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\tunai\OneDrive\Java\java-libs\javafx-sdk\lib --add-modules=javafx.fxml,javafx.controls  " />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
   </component>
-<<<<<<< HEAD
-=======
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
->>>>>>> origin/master
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="4858668b-7b0b-4b75-93e4-fe6b412189c5" name="Changes" comment="" />
-      <created>1630192781588</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1630192781588</updated>
-    </task>
-<<<<<<< HEAD
-    <task id="LOCAL-00001" summary="Criando os arquivos do Projeto">
-      <created>1630192992739</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1630192992739</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Criando os arquivos do Projeto">
-      <created>1630193211812</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1630193211812</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Tela MainView">
-      <created>1630193940492</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1630193940492</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Tela MainView">
-      <created>1630194060717</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1630194060717</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,32 +58,11 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Criando os arquivos do Projeto" />
-    <MESSAGE value="Tela MainView" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tela MainView" />
-  </component>
-=======
-    <servers />
-  </component>
->>>>>>> origin/master
 </project>
