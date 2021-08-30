@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de223dfb-0a14-46df-b605-37035cd1a513" name="Changes" comment="Adding database access">
-      <change afterPath="$PROJECT_DIR$/src/gui/DepartmentForm.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/util/Utils.java" afterDir="false" />
+    <list default="true" id="de223dfb-0a14-46df-b605-37035cd1a513" name="Changes" comment="DepartmentForm (dialog) design">
+      <change afterPath="$PROJECT_DIR$/src/gui/DepartmentFormController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/DepartmentListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/DepartmentListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/DepartmentForm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/DepartmentForm.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gui/DepartmentListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gui/DepartmentListController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -134,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630287953502</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="DepartmentForm (dialog) design">
+      <created>1630291142616</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1630291142616</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +165,7 @@
     <MESSAGE value="DepartmentService" />
     <MESSAGE value="Initializing action as parameter" />
     <MESSAGE value="Adding database access" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding database access" />
+    <MESSAGE value="DepartmentForm (dialog) design" />
+    <option name="LAST_COMMIT_MESSAGE" value="DepartmentForm (dialog) design" />
   </component>
 </project>
