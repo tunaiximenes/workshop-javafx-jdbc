@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de223dfb-0a14-46df-b605-37035cd1a513" name="Changes" comment="About View">
-      <change afterPath="$PROJECT_DIR$/src/gui/DepartmentList.fxml" afterDir="false" />
+    <list default="true" id="de223dfb-0a14-46df-b605-37035cd1a513" name="Changes" comment="DepartmentList View Design">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/DepartmentListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/entities/Department.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/MainViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/MainViewController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gui/MainViewController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gui/MainViewController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/DepartmentList.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/DepartmentList.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gui/DepartmentList.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gui/DepartmentList.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -38,6 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/gui" />
   </component>
   <component name="RecentsManager">
@@ -85,7 +88,14 @@
       <option name="presentableId" value="Default" />
       <updated>1630239801666</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DepartmentList View Design">
+      <created>1630281544530</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630281544530</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +114,7 @@
     <MESSAGE value="MainView Design" />
     <MESSAGE value="Main View Controller" />
     <MESSAGE value="About View" />
-    <option name="LAST_COMMIT_MESSAGE" value="About View" />
+    <MESSAGE value="DepartmentList View Design" />
+    <option name="LAST_COMMIT_MESSAGE" value="DepartmentList View Design" />
   </component>
 </project>
