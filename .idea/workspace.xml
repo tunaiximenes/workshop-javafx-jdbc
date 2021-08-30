@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de223dfb-0a14-46df-b605-37035cd1a513" name="Changes" comment="Initializing action as parameter">
-      <change afterPath="$PROJECT_DIR$/src/db/DbIntegrityException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+    <list default="true" id="de223dfb-0a14-46df-b605-37035cd1a513" name="Changes" comment="Adding database access">
+      <change afterPath="$PROJECT_DIR$/src/gui/DepartmentForm.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/util/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/entities/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entities/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/services/DepartmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/services/DepartmentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/services/DepartmentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/services/DepartmentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/DepartmentListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/DepartmentListController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -122,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630285739361</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adding database access">
+      <created>1630287918012</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1630287918012</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Adding database access">
+      <created>1630287953502</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1630287953502</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +157,7 @@
     <MESSAGE value="Department List Controller" />
     <MESSAGE value="DepartmentService" />
     <MESSAGE value="Initializing action as parameter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initializing action as parameter" />
+    <MESSAGE value="Adding database access" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding database access" />
   </component>
 </project>
